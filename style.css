@@ -1,0 +1,76 @@
+.maincolor {
+  background-color: hsl(202,63%,32%);
+  width: 100px;
+  height: 100px;
+}
+.secondcolor{
+  background-color: hsl(164,100%,83%);
+  width: 100px;
+  height: 100px;
+}
+.thirdcolor{
+  background-color: hsl(360,0%,0%);
+  width: 100px;
+  height: 100px;
+}
+
+.h2 {
+  color:hsl(202,63%,32%);
+  font-size:2.5rem;
+}
+
+.h1{
+  font-size:3rem;
+}
+
+.h3{
+  font-size:2rem;
+}
+.example {
+  font-family: 'lato';
+}
+
+pexample {
+  font-family: 'merriweather';
+}
+.button{
+  background-color:hsl(164,100%,83%);
+  font-family: 'lato';
+  border-radius: 10%;
+}
+
+.large {
+  height: 100px;
+  width:200px;
+  font-size:3rem;
+}
+
+.medium {
+  height: 70px;
+  width:140px;
+  font-size:2rem;
+}
+
+.small {
+  height: 40px;
+  width: 80px;
+  font-size:1.1rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
